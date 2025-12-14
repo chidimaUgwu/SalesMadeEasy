@@ -1,7 +1,7 @@
 <?php
 // Configuration file
 define('APP_NAME', 'EasySalles');
-define('APP_VERSION', '1.0.0');
+//define('APP_VERSION', '1.0.0');
 define('BASE_URL', 'http://169.239.251.102:341/~chidima.ugwu/SalesMadeEasy/');
 
 // Database configuration
